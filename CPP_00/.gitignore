@@ -1,0 +1,12 @@
+#All exo
+*.o
+
+#ex 01
+megaphone
+
+#ex 02
+phonebook
+
+#ex 03
+*.log
+account

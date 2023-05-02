@@ -1,0 +1,26 @@
+# All exo
+OBJ/
+#Needed
+.vscode/
+
+#ex00
+zombie
+
+#ex01
+horde
+
+#ex02
+brain
+
+#ex03
+weapon
+
+#ex04
+sed
+txt.*
+
+#ex05
+harl
+
+#ex06
+harlFilter
